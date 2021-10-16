@@ -1,4 +1,5 @@
 # regex-query-django
-simple regex query web application with django 
+
+Simple query tool built with django for personal Practice
 
 Created by Sk Soyeb Akhter | 2021
